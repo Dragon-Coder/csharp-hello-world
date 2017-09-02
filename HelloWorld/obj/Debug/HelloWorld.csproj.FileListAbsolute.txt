@@ -1,0 +1,6 @@
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\bin\Debug\HelloWorld.exe
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\obj\Debug\HelloWorld.exe
+F:\Websites\Random Sites\C# Test\Projects\csharp-hello-world\HelloWorld\obj\Debug\HelloWorld.pdb
